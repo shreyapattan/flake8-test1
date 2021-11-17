@@ -3,7 +3,7 @@ num1 = 1
 num2 = 6
 
 # Add two numbers
-sum = nu1 + num2
+sum = num1 + num2
 sum = num1 + num2
 
 # Display the sum
